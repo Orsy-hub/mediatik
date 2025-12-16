@@ -1,0 +1,8 @@
+```bash
+git checkout dev
+git checkout -b feature/ajout_playlist
+
+Code ------------------------
+git add ajout_playlist
+git commit -m "docs: ajout de la playlist"
+git push
